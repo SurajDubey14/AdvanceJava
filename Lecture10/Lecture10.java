@@ -1,4 +1,4 @@
-// Polymorphism
+// Polymorphism Concept is a concept in object orieneted programming which elaborate a object cen have many form or attributes
 
 package Lecture10;
 
